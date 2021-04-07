@@ -1,0 +1,10 @@
+# Python-specific
+__pycache__/
+
+# Virtualenv-specific
+pyvenv.cfg
+bin/
+lib/
+
+# Project-specific
+*.zip
